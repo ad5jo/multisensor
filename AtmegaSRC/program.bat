@@ -1,0 +1,1 @@
+"E:\Program Files (x86)\Arduino multisensor\hardware/tools/avr/bin/avrdude" -C"E:\Program Files (x86)\Arduino multisensor\hardware/tools/avr/etc/avrdude.conf" -v -v -v -v -patmega328p -carduino -P\\.\COM4 -b57600 -D -Uflash:w:"multisensorfutaba/debug/multisensorfutaba.hex":i
